@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "projects/2026-11-01-F1-teammate-comparison/index.html",
+    "href": "projects/2026-11-01-F1-teammate-comparison/index.html",
+    "title": "2026 F1 Teammate Comparison",
+    "section": "",
+    "text": "Let’s take a look at what happened in qualifying in Round 1. Using data from F1dataR1.\nPreview photo by Gábor Szűts on Unsplash"
+  },
+  {
+    "objectID": "projects/2026-11-01-F1-teammate-comparison/index.html#footnotes",
+    "href": "projects/2026-11-01-F1-teammate-comparison/index.html#footnotes",
+    "title": "2026 F1 Teammate Comparison",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nF1dataRhttps://scasanova.github.io/f1dataR/index.html↩︎"
+  },
+  {
+    "objectID": "posts/2026-11-01-first-post/index.html",
+    "href": "posts/2026-11-01-first-post/index.html",
+    "title": "My first post",
+    "section": "",
+    "text": "Start writing…."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -9,8 +30,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "alexander-lt.github.io",
+    "title": "Data Projects / Blog",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my Quarto Website\nI am a performance analyst currently looking for work. I am using this site to publish my personal data projects.\nPlease see these projects at LINK."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "My first post\n\n\n\nQuarto\n\nR\n\n\n\nmy first blog post but will edit for something more useful\n\n\n\nAlex T\n\n\nJan 11, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "2026 F1 Teammate Comparison\n\n\n\nF1\n\nR\n\nF1dataR\n\n\n\nHere we take a look at the teammate head-to-head throught the season during qualifying and races.\n\n\n\nAlex T\n\n\nJan 11, 2026\n\n\n\n\n\n\nNo matching items"
   }
 ]
